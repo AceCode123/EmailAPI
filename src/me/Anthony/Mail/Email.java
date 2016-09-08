@@ -98,4 +98,9 @@ public class Email {
     public String toString() {
         return "me.Anthony.Mail.Email/" + s.getUsername() + "/to/" + to.toString();
     }
+
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
 }

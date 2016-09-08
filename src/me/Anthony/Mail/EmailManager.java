@@ -99,7 +99,11 @@ public class EmailManager {
     }
 
     public void archive(Email e) {
-          //Work in progress
+
+    }
+
+    public void loadArchive() {
+
     }
 
 

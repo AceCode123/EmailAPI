@@ -69,4 +69,14 @@ public class Sender extends Object implements MailMan {
     public String toString() {
         return "MailMan/Sender/" + username;
     }
+
+    @Override
+    public int hashCode() {
+        return super.hashCode();
+    }
+
+
+
 }
+
+
