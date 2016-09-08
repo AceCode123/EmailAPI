@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Update Email</title>
+</head>
+<body>
+
+<div style = "background: #BBE1ED; border: 10px solid steelblue; background: steelgray; width: 600px; height: 600px; margin: 10px">
+<h1 style = "color: steelblue; text-align: center; height: 75px; font-size: 55px; margin-bottom: 10px">$Name</h1>
+<p style = "height: 50px; font-size: 20px; text-align: center; color: white; font-weight: 600">$Text</p>
+    <h3 style = "position: absolute; float: right; color: steelblue; font-weight: 600; font-family: cursive; font-size: 20px; margin-right: 5px">Sincerely, $Signature</h3>
+</div>
+
+
+
+</body>
+</html>
