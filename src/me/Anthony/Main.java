@@ -1,7 +1,5 @@
 package me.Anthony;
 
-import me.Anthony.Mail.Sender;
-
 public class Main {
 
     public static void main(String[] args) {
